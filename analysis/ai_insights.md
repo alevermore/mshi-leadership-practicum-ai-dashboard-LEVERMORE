@@ -7,7 +7,8 @@ This dataset contains public health indicators related to diabetes risk, lifesty
 "Based on this dataset, what leadership actions could improve population health outcomes, chronic disease prevention, and health equity related to diabetes?"
 
 ## AI Insights Summary
-(Paste AI response here)
+The AI analysis suggests that leadership interventions should focus on targeted outreach using data stratification, digital engagement strategies, community-based prevention programs, informatics-supported workflow optimization, and equity-centered leadership approaches to improve both workflow efficiency and patient engagement.
+
 
 ## My Leadership Critique
 - Which recommendations are realistic
