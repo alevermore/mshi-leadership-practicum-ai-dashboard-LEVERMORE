@@ -22,6 +22,7 @@ Academic leadership practicum project focused on health informatics, leadership 
 - Excel
 - GitHub
 - AI tools (ChatGPT)
+- Kaggle
 
 ## Project Components
 - Dataset analysis
