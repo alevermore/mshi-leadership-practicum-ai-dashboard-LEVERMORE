@@ -1,6 +1,6 @@
 # mshi-leadership-practicum-ai-dashboard-LEVERMORE
-
-# Practicium Context: 
+# Project Overview 
+## Practicium Context: 
 ##       My practicum site is Morehouse School of Medicine under my supervisor, Dr. Christina Muhammad. This organization is committed to health equity, community engagement, and mentorship to future health professionals.
       
 ## Leadership Question:
