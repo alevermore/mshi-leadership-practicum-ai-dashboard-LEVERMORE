@@ -9,10 +9,9 @@ This dataset contains public health indicators related to diabetes risk, lifesty
 ## AI Insights Summary
 The AI analysis suggests that leadership interventions should focus on targeted outreach using data stratification, digital engagement strategies, community-based prevention programs, informatics-supported workflow optimization, and equity-centered leadership approaches to improve both workflow efficiency and patient engagement.
 
-
 ## My Leadership Critique
-- Which recommendations are realistic
-- Which are not feasible
-- Ethical concerns
+- Feasibility of implementation
 - Resource limitations
-- Workforce considerations
+- Workforce capacity
+- Equity implications
+- Ethical AI considerations
