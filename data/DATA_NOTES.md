@@ -5,4 +5,4 @@ This dataset is simulated for academic purposes.
 No real patient data is included.
 
 ## Purpose
-Created to analyze workflow and leadership improvement opportunities.
+This data shows the recorded diabetes, physical activity, and high blood pressure levels from 2015. Additionally, this was created to analyze workflow and leadership improvement opportunities. 
